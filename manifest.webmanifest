@@ -1,0 +1,10 @@
+{
+  "name": "NEXUS Advanced College Management System",
+  "short_name": "NEXUS ADV",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "description": "Advanced college management: students, attendance, marks, fees, notices & data recovery",
+  "icons": []
+}
